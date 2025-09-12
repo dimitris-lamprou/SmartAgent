@@ -1,2 +1,2 @@
 # SmartAgent
-Smart Agent Simulation
+Developed a smart agent simulation in Unity, leveraging the built-in Navigation system to create an agent capable of autonomous movement and decision-making within a configurable map. Implemented agent behaviors including goal prioritization (bank, shops, town hall, home), resource collection (coins, energy potions), and exploration with obstacle avoidance. Users can customize map size, and the distribution of coins and potions, while agent dynamically plan optimal paths using Unity’s NavMesh system.
